@@ -18,8 +18,29 @@ Full stack application for a movie theater with focus on functionality.
 Executable JAR-file can be made on request. 
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
+`chooseSeat(seat) {
+      console.log(seat.status);
+      console.log("Counter: " + this.counter);
+      console.log("Total Tickets: " + this.totalTickets);
+      console.log("List ticket types: ");
+      for (let listTicketType of this.listTicketTypes) {
+        console.log(listTicketType);
+      }
+      if (this.counter < this.totalTickets) {
+        if (seat.status === "available") {
+          seat.status = "selected";
+          this.counter += 1;
+        } else if (seat.status === "selected") {
+          seat.status = "available";
+          this.counter -= 1;
+        }
+      } else {
+        if (seat.status === "selected") {
+          seat.status = "available";
+          this.counter -= 1;
+        }
+      }
+    }`
 
 ## Features
 * Watch trailers and read descriptions about movies.  
