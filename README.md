@@ -15,7 +15,7 @@ Full stack application for a movie theater with focus on functionality.
 * SQLite
 
 ## Setup
-Describe how to install / setup your local environment / add link to demo version.
+Executable JAR-file can be made on request. 
 
 ## Code Examples
 Show examples of usage:
