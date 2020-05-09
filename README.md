@@ -1,4 +1,3 @@
-README TEMPLATE
 # Cinemania
 > Movie theater app. Watch trailers and read descriptions about movies. Check available screening times. Create a user account and login to reserve seats and book tickets. Admin account can add and remove movies. 
 
