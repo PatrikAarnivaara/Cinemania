@@ -1,5 +1,5 @@
 # Cinemania
-> Movie theater app. Watch trailers and read descriptions about movies. Check available screening times. Create a user account and login to reserve seats and book tickets. Admin account can add and remove movies. 
+> Movie theater app.
 
 ## General info
 Full stack application for a movie theater with focus on functionality.
@@ -22,14 +22,10 @@ Show examples of usage:
 `put-your-code-here`
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Watch trailers and read descriptions about movies.  
+* Check available screening times.
+* Create a user account and login to reserve seats and book tickets.
+* Add new films by searching on title, get info and trailer from API's.
 
 ## Status
 Project is: _finished_
