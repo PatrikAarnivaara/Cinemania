@@ -5,7 +5,9 @@
 Full stack application for a movie theater with focus on functionality.
 
 ## Screenshots
-![films.png](./img/screenshot.png)
+![](login.png)
+![](seats.png)
+![](films.png)
 
 ## Technologies
 * Vue.js
